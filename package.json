@@ -1,0 +1,7 @@
+{
+  "name": "beat-me-at",
+  "description": "Solo browser arcade of React and canvas games with a public leaderboard",
+  "homepage": "https://beat.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
