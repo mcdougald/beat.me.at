@@ -2,7 +2,7 @@
   "domain": "beat.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "792f696d3eac4ba2c4e83b712f5ce3411c9b54ab0502ef089bbad0af36f7aafc",
+  "contentHash": "02632b0927de89fe3371123cefe3d1f626c073b8d6c3c898d9be7e9090e50aab",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",

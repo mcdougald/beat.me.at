@@ -4,13 +4,13 @@ I build Beat in my private monorepo, next to the rest of my `*.me.at` apps.
 This file mirrors that work. Every sync regenerates it from the monorepo's
 history for this app, so it changes when the app does.
 
-Latest change: **2026-10-19**
+Latest change: **2026-10-20**
 
 ## By week
 
 | Week of | Commits | Files touched |
 |---|---:|---:|
-| 2026-10-19 | 5 | 39 |
+| 2026-10-19 | 6 | 40 |
 | 2026-10-12 | 7 | 11 |
 | 2026-10-05 | 4 | 41 |
 | 2026-09-28 | 9 | 98 |
